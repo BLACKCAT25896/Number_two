@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "499195679958",
+    "project_id": "flutter-c41f9",
+    "storage_bucket": "flutter-c41f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499195679958:android:284cd279cb0c4b32eda577",
+        "android_client_info": {
+          "package_name": "com.joy.abul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499195679958-3jiei3oe29ajd55va8p6g0vcqlt2oq34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaQA-QV-KxUQ8fJmEn87viY85Vrw63Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499195679958-3jiei3oe29ajd55va8p6g0vcqlt2oq34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499195679958:android:2d33ad75e5ef5d2feda577",
+        "android_client_info": {
+          "package_name": "com.joy.dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499195679958-3jiei3oe29ajd55va8p6g0vcqlt2oq34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaQA-QV-KxUQ8fJmEn87viY85Vrw63Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499195679958-3jiei3oe29ajd55va8p6g0vcqlt2oq34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
